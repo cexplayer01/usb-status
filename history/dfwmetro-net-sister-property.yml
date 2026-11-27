@@ -1,7 +1,7 @@
 url: https://dfwmetro.net
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2026-11-27T04:39:20.041Z
+status: down
+code: 503
+responseTime: 168
+lastUpdated: 2026-11-27T11:48:50.953Z
 startTime: 2026-10-15T19:12:43.727Z
 generator: Upptime <https://github.com/upptime/upptime>
