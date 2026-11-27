@@ -4,19 +4,19 @@
     "url": "https://dfwmow.app",
     "icon": "https://icons.duckduckgo.com/ip3/dfwmow.app.ico",
     "slug": "dfwmow-app-production-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 275,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "64.42%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.17%",
+    "time": 413,
+    "timeDay": 306,
     "timeWeek": 369,
-    "timeMonth": 400,
-    "timeYear": 414,
+    "timeMonth": 399,
+    "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-11-27": 1
+      "2026-11-27": 512
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dfwmow.app/api/usb/preview?job_id=publication-job-000000000000000000000000",
     "icon": "https://icons.duckduckgo.com/ip3/dfwmow.app.ico",
     "slug": "headless-api-preview-status-auth-gate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1675,
-    "timeDay": 933,
-    "timeWeek": 1587,
-    "timeMonth": 1692,
-    "timeYear": 1675,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "64.43%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.17%",
+    "time": 1676,
+    "timeDay": 1194,
+    "timeWeek": 1601,
+    "timeMonth": 1693,
+    "timeYear": 1676,
     "dailyMinutesDown": {
-      "2026-11-27": 1
+      "2026-11-27": 512
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://usb-lab--dfwmow.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/usb-lab--dfwmow.netlify.app.ico",
     "slug": "lab-draft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 266,
-    "timeWeek": 437,
-    "timeMonth": 564,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "64.44%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.17%",
+    "time": 584,
+    "timeDay": 326,
+    "timeWeek": 438,
+    "timeMonth": 561,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-11-27": 1
+      "2026-11-27": 512
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://dfwmetro.net",
     "icon": "https://icons.duckduckgo.com/ip3/dfwmetro.net.ico",
     "slug": "dfwmetro-net-sister-property",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 286,
-    "timeWeek": 340,
-    "timeMonth": 425,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "64.46%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.17%",
+    "time": 470,
+    "timeDay": 308,
+    "timeWeek": 341,
+    "timeMonth": 422,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-11-27": 0
+      "2026-11-27": 512
     }
   },
   {
@@ -84,17 +84,19 @@
     "url": "https://testmyself.app",
     "icon": "https://icons.duckduckgo.com/ip3/testmyself.app.ico",
     "slug": "testmyself-app-sister-property",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 157,
-    "timeWeek": 311,
-    "timeMonth": 421,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "64.47%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.17%",
+    "time": 437,
+    "timeDay": 226,
+    "timeWeek": 317,
+    "timeMonth": 420,
+    "timeYear": 437,
+    "dailyMinutesDown": {
+      "2026-11-27": 512
+    }
   }
 ]
